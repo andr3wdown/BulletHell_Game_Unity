@@ -1,0 +1,2 @@
+planets.png,1024,1024,4
+asteroids.png,1024,1024,3

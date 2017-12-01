@@ -1,0 +1,5 @@
+ships.png,64,64,4
+enemyBullets.png,64,64,9
+collectibles.png,64,64,3
+rocket.png,64,64,7
+EnemyRingBullet.png,64,64,6
